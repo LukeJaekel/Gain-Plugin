@@ -5,3 +5,12 @@ Features:
 - Changes volume of input (range is -40dB to 0dB)
 - Stores last perameters set by user on closing Digital Audio Workstation (DAW)
 - Includes a audio ramp feature that prevents unwanted audio clicks and artifacts
+
+
+Usage:
+
+1. Open "Gain Plugin.jucer" file
+2. Run the load the project in XCode or Visual Studio
+3. Run/Build it as either AU/VST (depending on your DAW)
+4. Open your DAW
+5. Run the plugin on any channel should be under "yourcompany" -> "Gain Plugin"
