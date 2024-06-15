@@ -1,9 +1,9 @@
-This is a simple gain plugin created uaing the JUCE framework.
+This is a simple gain plugin created using the JUCE framework.
 
 Features:
 
 - Changes volume of input (range is -40dB to 0dB)
-- Stores last perameters set by user on closing Digital Audio Workstation (DAW)
-- Includes a audio ramp feature that prevents unwanted audio clicks and artifacts
+- Stores last parameters set by user on closing Digital Audio Workstation (DAW)
+- Includes an audio ramp feature that prevents unwanted audio clicks and artifacts
 
-VST3 and AU plugin component can be found in Builds/MacOSX/build/Debug
+VST3 and AU plugin components can be found in Builds/MacOSX/build/Debug
